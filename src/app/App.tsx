@@ -1,4 +1,3 @@
-import { AddMovieModal } from "./components/AddMovieModal";
 import { AllCommentsModal } from "./components/AllCommentsModal";
 import { FilterSidebar } from "./components/FilterSidebar";
 import { DarkModeToggle } from "./components/DarkModeToggle";
